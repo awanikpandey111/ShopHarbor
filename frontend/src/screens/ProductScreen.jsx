@@ -120,7 +120,6 @@ const ProductScreen = () => {
                     </Row>
                   </ListGroup.Item>
 
-                  {/* Qty Select */}
                   {product.countInStock > 0 && (
                     <ListGroup.Item>
                       <Row>
